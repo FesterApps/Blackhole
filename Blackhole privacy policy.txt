@@ -1,1 +1,9 @@
-Privacy policy for blackhole
+We use third-party analytical tools to deliver advertising and content relevant to your interests.
+
+These partners process your Data only at and according to our specific instructions and may use cookies and other tracking technologies to collect information about your use of our Services.
+
+This collected information includes, but is not limited to installation Data, in-app events, language, platform, device type, operating system version or device IDs such as advertising IDs and usage information.
+
+We use the following advertising networks in order to be able to integrate advertising within our free-of-charge Services. These collect the Data described below for the purpose of providing personalized advertising:
+
+- AdMob/Google:	Google Corporation, 1600 Amphitheatre Parkway in Mountain View, California, USA.	Online identifiers, including cookie identifiers, internet protocol addresses and device identifiers; client identifiers
